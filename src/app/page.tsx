@@ -1,4 +1,5 @@
-import MatchList from "@/components/MatchList";
+import MatchList from '../components/MatchList';
+
 
 export default function Home() {
   return (
